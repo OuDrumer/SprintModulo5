@@ -1,6 +1,6 @@
 # Sistema Web de Gestion Control de Usuarios - Prevencion de Riesgos #
 
-*** A tener en cuenta, se ingresa a la web con el usuario "admin" y la contraseña "1234" ***
+*** A tener en cuenta, se ingresa a la web con el usuario "admin" y la contraseña "1234"
 *** Se adjunta el script sql en el directorio raiz del proyecto
 
 ##Integrantes del equipo, repositorios en GitHub:
