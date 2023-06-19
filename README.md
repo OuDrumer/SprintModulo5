@@ -1,9 +1,9 @@
 # Sistema Web de Gestion Control de Usuarios - Prevencion de Riesgos #
 
-*** A tener en cuenta, se ingresa a la web con el usuario "admin" y la contraseña "1234"
-*** Se adjunta el script sql en el directorio raiz del proyecto
+#### * A tener en cuenta, se ingresa a la web con el usuario "admin" y la contraseña "1234" 
+#### * Se adjunta el script sql en el directorio raiz del proyecto 
 
-##Integrantes del equipo, repositorios en GitHub:
+## Integrantes del equipo, repositorios en GitHub:
  - Cesar Albornoz / https://github.com/CesarAlbornozG/SprintModulo5
  - Catalina Muñoz / https://github.com/KattaMP/SprintModulo5
  - Jaime Godoy / https://github.com/OuDrumer/SprintModulo5
@@ -25,13 +25,13 @@ Los aspectos clave que debe abordar la solución son los siguientes:
  
  -Registro de actividades en carpetas, lo que dificulta el seguimiento de las asesorías.
 
-##La solución implementada permite:
+## La solución implementada permite:
 
  - Planificar actividades y controlar su ejecución.
 
  - Gestión de clientes: El sistema debe contar con un módulo de gestión de clientes que permita tener un registro actualizado de los clientes.
 
-##Crear una interfaz Web que permita ingresar al sistema los siguientes campos:
+## Crear una interfaz Web que permita ingresar al sistema los siguientes campos:
  - Alamacenar los usuarios de tipo "Cliente"
  - Alamacenar los usuarios de tipo "Profesional"
  - Alamacenar los usuarios de tipo "Administrativo"
